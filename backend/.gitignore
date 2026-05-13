@@ -1,0 +1,7 @@
+#mongo pw: yRmE3ThCalF0EvRQ
+
+# Step 1: create env file 
+# Step 2: config databasenode_modules/
+.env
+node_modules/
+
