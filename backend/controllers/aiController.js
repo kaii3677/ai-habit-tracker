@@ -76,7 +76,7 @@ export const suggestHabits = async (req, res) => {
                 {
                     name: "Drink More Water",
                     description: "Drink at least 8 glasses of water throughout the day.",
-                    frequency: "Daily",
+                    frequency: "daily",
                     category: "Health",
                     icon: "💧",
                     reason: "Staying hydrated improves energy, concentration, and overall health."
@@ -84,15 +84,15 @@ export const suggestHabits = async (req, res) => {
                 {
                     name: "Read for 20 Minutes",
                     description: "Spend 20 minutes reading a book or educational material.",
-                    frequency: "Daily",
+                    frequency: "daily",
                     category: "Learning",
                     icon: "📚",
-                    reason: "Daily reading builds knowledge, improves focus, and encourages continuous learning."
+                    reason: "daily reading builds knowledge, improves focus, and encourages continuous learning."
                 },
                 {
                     name: "Take a 30-Minute Walk",
                     description: "Go for a brisk 30-minute walk outdoors or on a treadmill.",
-                    frequency: "Daily",
+                    frequency: "daily",
                     category: "🏃🏻",
                     icon: "directions_walk",
                     reason: "Regular walking supports cardiovascular health, reduces stress, and boosts mood."

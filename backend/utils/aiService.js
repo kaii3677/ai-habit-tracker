@@ -80,7 +80,7 @@ Each object MUST have exactly these fields:
 {
   "name": string,
   "description": string,
-  "frequency": "Daily" | "Weekly",
+  "frequency": "daily" | "weekly",
   "category": string,
   "icon": string,
   "reason": string
